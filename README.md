@@ -5,4 +5,4 @@
 
 ### ( AUTONOMUS )
 
-*AITS* is located in Rajampet (Kadpa) , Karkambadi (Tirupati)
+**AITS** is located in Rajampet (Kadpa) , Karkambadi (Tirupati)
