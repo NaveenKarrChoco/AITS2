@@ -6,3 +6,11 @@
 ### ( AUTONOMUS )
 
 ***AITS***  **is located in Rajampet (Kadpa) , Karkambadi (Tirupati)**
+### Unordered List
+* Apple
+* Pineaapple
+* banana
+  * lemon
+  * mosambhi
+  
+### Ordered List  
